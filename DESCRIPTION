@@ -90,3 +90,9 @@ Collate:
     'Trajectory.R'
     'ValidationUtils.R'
     'VisualizeData.R'
+    'RasterUMAPs.R'
+    'exportShinyArchR.R'
+    'mainUMAPs.R'
+    
+    
+
